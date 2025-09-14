@@ -1,7 +1,9 @@
 # Latracal Movie Recommendation 🎬
 
 A full-stack movie recommendation platform that allows users to browse, review, and manage their watchlist.  
-Built with **React + TypeScript (frontend)** and **Node.js + Express + MongoDB (backend)**.
+Built with **React + TypeScript (frontend)** and **Node.js + Express + MongoDB (backend)**.  
+
+👉 **Live Demo**: [Latracal Movie Recommendation](https://latracal-movie-recommendation.vercel.app/)
 
 ---
 
